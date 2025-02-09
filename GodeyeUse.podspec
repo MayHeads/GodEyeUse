@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'GodeyeUse'
-  s.version          = '2.0.3'
+  s.version          = '1.0'
   s.swift_versions = ["5.9"]
   s.summary          = 'Automaticly display Log,Crash,Network,ANR,Leak,CPU,RAM,FPS,NetFlow,Folder and etc with one line of code based on Swift. Just like God opened his eyes.'
 
@@ -22,11 +22,11 @@ Pod::Spec.new do |s|
     Automaticly display Log,Crash,Network,ANR,Leak,CPU,RAM,FPS,NetFlow,Folder and etc with one line of code based on Swift. Just like God opened his eyes..
     DESC
 
-    s.homepage         = 'https://github.com/zixun/GodeyeUse'
+    s.homepage         = 'https://github.com/MayHeads/GodEyeUse'
     # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
     s.license          = { :type => 'MIT', :file => 'LICENSE' }
-    s.author           = { 'zixun' => 'chenyl.exe@gmail.com' }
-    s.source           = { :git => 'https://github.com/zixun/GodeyeUse.git', :tag => s.version.to_s }
+    s.author           = { 'xxx' => 'xxxxx@qq.com' }
+    s.source           = { :git => 'https://github.com/MayHeads/GodEyeUse.git', :tag => s.version.to_s }
 
     s.ios.deployment_target = '12.0'
 
