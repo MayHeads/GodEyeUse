@@ -1,0 +1,65 @@
+PODS:
+  - GodeyeUse (2.0.3):
+    - GodeyeUse/ANREye (= 2.0.3)
+    - GodeyeUse/AppBaseKit (= 2.0.3)
+    - GodeyeUse/ASLEye (= 2.0.3)
+    - GodeyeUse/CrashEye (= 2.0.3)
+    - GodeyeUse/LeakEye (= 2.0.3)
+    - GodeyeUse/Log4G (= 2.0.3)
+    - GodeyeUse/NetworkEye (= 2.0.3)
+    - GodeyeUse/SystemEye (= 2.0.3)
+    - GodeyeUse/UIThreadEye (= 2.0.3)
+    - MJRefresh
+    - SQLite.swift
+  - GodeyeUse/ANREye (2.0.3):
+    - MJRefresh
+    - SQLite.swift
+  - GodeyeUse/AppBaseKit (2.0.3):
+    - MJRefresh
+    - SQLite.swift
+  - GodeyeUse/ASLEye (2.0.3):
+    - MJRefresh
+    - SQLite.swift
+  - GodeyeUse/CrashEye (2.0.3):
+    - MJRefresh
+    - SQLite.swift
+  - GodeyeUse/LeakEye (2.0.3):
+    - MJRefresh
+    - SQLite.swift
+  - GodeyeUse/Log4G (2.0.3):
+    - MJRefresh
+    - SQLite.swift
+  - GodeyeUse/NetworkEye (2.0.3):
+    - MJRefresh
+    - SQLite.swift
+  - GodeyeUse/SystemEye (2.0.3):
+    - MJRefresh
+    - SQLite.swift
+  - GodeyeUse/UIThreadEye (2.0.3):
+    - MJRefresh
+    - SQLite.swift
+  - MJRefresh (3.7.9)
+  - SQLite.swift (0.15.3):
+    - SQLite.swift/standard (= 0.15.3)
+  - SQLite.swift/standard (0.15.3)
+
+DEPENDENCIES:
+  - GodeyeUse (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - MJRefresh
+    - SQLite.swift
+
+EXTERNAL SOURCES:
+  GodeyeUse:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  GodeyeUse: 5456875c9f7c15831e506d2ddb4930aab8510b15
+  MJRefresh: ff9e531227924c84ce459338414550a05d2aea78
+  SQLite.swift: 8d054987f02728cc912b0eb5a9659650573a65a2
+
+PODFILE CHECKSUM: 644b186337ba976d3e9bb28bfe876dd4fecf3e2e
+
+COCOAPODS: 1.16.2
